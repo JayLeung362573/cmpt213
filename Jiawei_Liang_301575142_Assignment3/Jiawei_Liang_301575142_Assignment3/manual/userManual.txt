@@ -1,0 +1,52 @@
+0. PLEASE DRAG the right-bottm corner after having two or more important days to get a better view
+
+1. It will display nothing in the first place, to show all the important days, 
+click "ALL" button, it will show all days ordered by date
+
+2. To show the same type of this year, you need to choose the type first(one of three checkbox),
+and click the button: This Year, it will show the ordered important days with the same type
+
+3. checkboxes don't apply on the other buttons except This Year button
+
+4. To show the important days that already passed in this year, 
+just click the "Passed This Year" button, it will show the upcoming important days ordered by date
+
+5. To show the important days that are upcoming in this year, 
+just click the "Upcoming This Year" button, 
+it will show the upcoming important days ordered by date
+
+6. To add an important day, click "Add an Important Day" button at the bottom,
+It will show a new window that allows the user to enter the information about a new important day
+
+6.1 Select the type of the day by selecting one of three options in the combobox: 
+    Anniversary, Birthday, Occasion
+
+6.2 Enter the name by typing on the textfield besides Name:
+
+6.3 Choose the date by click the button "...", and then choose the date
+
+6.4 Enter the description by typing on the textfield besides Description:
+
+6.5 Enter the specific parameter by typing on the textfield besides the label:
+Location for Anniversary, Person Name for Birthday, Frequency for Occasion
+
+6.6 If any of Name, Date, or Specific parameter is empty when click the "Create" button, 
+dialog windows will pop up according to the missing information
+For example, is the name and date are missing, two dialog windows will pop up: 
+one for the name and one for the date
+
+6.7 If you change your mind, click the "Cancel" button to go back to the main window
+
+6.8 After enter all the required information, click the "Create" button, 
+a Success dialog window will pop up, showing all the information of the new important day
+click "ok" button to go back to the main window
+
+7. After creating a new important day, click "ALL" button to refresh the list,
+the new day will show up and ordered by date
+
+8. If you want to remove a day, click the "remove" button besides each day, 
+and click the "ALL" button to refresh,
+the removed day will disapprear and the remaining days will be ordered by date
+
+9. To save the changes, you need to close the main window.
+
